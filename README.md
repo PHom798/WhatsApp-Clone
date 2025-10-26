@@ -17,6 +17,14 @@ This project serves as an excellent practice resource for Flutter developers who
 
 <div align="center">
   
+  ![Digital Clock](screenshots/00Bv2fnhhe.png)
+    
+</div>
+
+---
+
+<div align="center">
+  
   ![Digital Clock](screenshots/clone.jpeg)
     
 </div>
